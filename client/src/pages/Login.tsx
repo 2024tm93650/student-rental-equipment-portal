@@ -115,9 +115,9 @@ const Login: React.FC = () => {
           <div className="mt-6 p-4 bg-gray-100 rounded-md">
             <h3 className="text-sm font-medium text-gray-900 mb-2">Demo Credentials:</h3>
             <div className="text-xs text-gray-600 space-y-1">
-              <div><strong>Admin:</strong> admin / admin123</div>
-              <div><strong>Staff:</strong> staff1 / admin123</div>
-              <div><strong>Student:</strong> student1 / admin123</div>
+              <div><strong>Admin:</strong> admin / password123</div>
+              <div><strong>Staff:</strong> staff / password123</div>
+              <div><strong>Student:</strong> student / password123</div>
             </div>
           </div>
         </form>
